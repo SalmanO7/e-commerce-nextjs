@@ -31,7 +31,7 @@ const Blogs = () => {
       <div className="flex flex-col gap-4 p-2  lg:flex-row justify-start items-center pt-[89px]">
         {BlogCardData.map((cardData) => (
           <BlogCard
-            key={cardData.id}
+            key={cardData.title}
             title={cardData.title}
             description={cardData.description}
             img={cardData.img}
