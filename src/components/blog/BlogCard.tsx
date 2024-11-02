@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-const BlogCard = ({ id, title, description, img, btnContent }: any) => {
+const BlogCard = ({ title, description, img, btnContent }: any) => {
   return (
     <div className="flex justify-start items-center p-3 lg:w-[500px] lg:h-[230px] xl:w-full bg-[#333] text-gray-300">
       <Image src={img} alt={title} className="w-[150px] h-[170px] sm:w-auto  lg:w-[250px] lg:h-[200px]" />

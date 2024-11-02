@@ -3,14 +3,12 @@ import img2 from "@/assets/fd5.jpg";
 import BlogCard from "./BlogCard";
 
 const BlogCardData: {
-  id: number;
   title: string;
   description: string;
   img: any;
   btnContent: string;
 }[] = [
   {
-    id: 1,
     title: "Read New Offers",
     description:
       "Enjoy a variety of delicious dishes made from high-quality ingredients, crafted to satisfy every taste.",
@@ -18,7 +16,6 @@ const BlogCardData: {
     btnContent: "Read More",
   },
   {
-    id: 2,
     title: "Read New Blogs Offers",
     description:
       "crafted to satisfy every taste. From mouthwatering burgers to flavorful sides, we serve it all with passion and perfection.",
