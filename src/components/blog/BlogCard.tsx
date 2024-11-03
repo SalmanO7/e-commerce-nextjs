@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const BlogCard = ({ title, description, img, btnContent }: any) => {
   return (
     <div className="flex justify-start items-center p-3 lg:w-[500px] lg:h-[230px] xl:w-full bg-[#333] text-gray-300">

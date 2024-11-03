@@ -7,6 +7,9 @@ import img5 from "@/assets/g3.jpg";
 import img6 from "@/assets/g4.jpg";
 import Footer from "@/components/footer/Footer";
 
+
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const FoodGallaryData: { id: any; img: any }[] = [
   {
     id: 1,

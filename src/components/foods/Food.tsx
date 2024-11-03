@@ -6,6 +6,9 @@ import img4 from "@/assets/fd4.jpg";
 import img5 from "@/assets/fd5.jpg";
 import img6 from "@/assets/fd6.jpg";
 
+
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const FoodCard: { title: string; description: string; img: any }[] = [
   {
     img: img1,

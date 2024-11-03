@@ -7,6 +7,9 @@ import img5 from "@/assets/fd5.jpg";
 import img6 from "@/assets/fd6.jpg";
 import Footer from "@/components/footer/Footer";
 
+
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const FoodCard: { title: string; description: string; img: any }[] = [
   {
     img: img1,

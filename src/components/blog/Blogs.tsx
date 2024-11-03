@@ -2,6 +2,7 @@ import img1 from "@/assets/fd1.jpg";
 import img2 from "@/assets/fd5.jpg";
 import BlogCard from "./BlogCard";
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const BlogCardData: {
   title: string;
   description: string;

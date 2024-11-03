@@ -3,6 +3,9 @@ import img2 from "@/assets/fd5.jpg";
 import BlogCard from "@/components/blog/BlogCard";
 import Footer from "@/components/footer/Footer";
 
+
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const BlogCardData: {
   id: number;
   title: string;

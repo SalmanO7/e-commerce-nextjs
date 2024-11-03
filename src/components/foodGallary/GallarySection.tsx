@@ -6,6 +6,7 @@ import img4 from "@/assets/fd5.jpg";
 import img5 from "@/assets/g3.jpg";
 import img6 from "@/assets/g4.jpg";
 
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 const FoodGallaryData: { id: any; img: any }[] = [
   {
     id: 1,
