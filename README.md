@@ -34,4 +34,3 @@
 - **Tailwind CSS**: Utility-first CSS framework for creating responsive and modern UI quickly.
 
 ---
-
