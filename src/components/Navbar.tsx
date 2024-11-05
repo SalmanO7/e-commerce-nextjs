@@ -7,12 +7,12 @@ const Navbar = () => {
     <header className="w-full bg-[#004581] text-[#DFFF]">
       <nav className="w-full flex justify-around items-center lg:px-[40px]  lg:justify-between py-3 gap-4">
         <div className="logo font-bold text-xl">
-          <Link href="/home">Testy Food </Link>
+          <Link href="/">Testy Food </Link>
         </div>
 
         <ul className="hidden sm:block sm:flex sm:gap-3">
           <li className="text-[18px]">
-            <Link href="/home">Home</Link>
+            <Link href="/">Home</Link>
           </li>
           <li className="text-[18px]">
             <Link href="/foods">Foods</Link>
