@@ -2,8 +2,7 @@
 
 **Tasty Food** is a modern e-commerce platform for a restaurant that allows users to explore a variety of delicious food items, view high-quality food galleries, and discover enticing discounts. Built with **Next.js**, **TypeScript**, and **Tailwind CSS**, this project provides an optimized, responsive, and accessible user experience across all devices.
 ---
-
-
+s
 ## Table of Contents
 
 - [Features](#features)
