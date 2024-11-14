@@ -11,6 +11,7 @@
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Responsive Design](#responsive-design)
+
 ---
 
 ## Features
@@ -30,5 +31,4 @@
 - **Next.js**: React framework for server-side rendering, optimized page loads, and improved SEO.
 - **TypeScript**: Provides type safety, making the code more robust and maintainable.
 - **Tailwind CSS**: Utility-first CSS framework for creating responsive and modern UI quickly.
-
 ---
