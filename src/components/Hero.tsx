@@ -1,8 +1,10 @@
-import Image from "next/image";
 import React from "react";
+import Image from "next/image";
 import img from "@/assets/burg.png";
 
 const Hero = () => {
+
+
   return (
     <div className="flex justify-center items-center w-full min-h-screen p-4">
       <div className="flex flex-col sm:flex-row items-center sm:justify-between rounded-lg p-4 sm:p-8 max-w-screen-lg">
