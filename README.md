@@ -11,7 +11,6 @@
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Responsive Design](#responsive-design)
-
 ---
 
 ## Features
